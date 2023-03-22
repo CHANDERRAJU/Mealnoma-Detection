@@ -1,4 +1,4 @@
-# Mealnoma-Detection
+# Melanoma-Detection
 CNN Model for Melanoma Detection
 # Project Name
 Image based model for Melanoma detection with a mix of healthy and cancerous image samples.
